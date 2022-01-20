@@ -1,18 +1,19 @@
-<html>
+<<html>
     <body>
       <h1>Welcome to my music page!</h1>
       <p>Links:
       <ul>
             <li><a href="https://open.spotify.com/artist/27IHJFmSl57yw5UI0rvnmB?si=YzITre5ETr6GEkkfdYHkeg">Spotify</a></li>
           <li><a href="https://music.apple.com/ca/artist/variable-x/1234756604?l=fr">iTunes</a></li>
-          <li><a href="www.facebook.com/variablexmusic">Facebook</a></li>
+          <li><a href="https://www.facebook.com/variablexmusic">Facebook</a></li>
         </ul>
-        </p>
+       
         <form action="https://www.variable-x.github.io/Music/subscribe.php">
             <p>Subscribe to my e-mail list</p>
             <input type="text" name="e-mail" />
             <input type="submit" name="subscribe"
              value="Subscribe" />
          </form>
+         </p>
   </body>
 </html>
